@@ -8,4 +8,4 @@ def toadstool
 end
 
 def mario 
-  s
+  phrase = " It's "
