@@ -13,4 +13,4 @@ def mario
 end
 
 def link 
-  puts "It's Dangerous "
+  puts "It's Dangerous To Go Alone"
